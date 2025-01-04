@@ -3,8 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Overview
 JSTACK is a web-based platform designed to streamline the job search process. It provides a user-friendly interface for both job seekers and employers to interact, search for jobs, and post job openings. With its clean and intuitive design, JSTACK aims to enhance the job hunting experience.
